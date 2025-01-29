@@ -2,4 +2,8 @@
 
 # Your Name
 
+Max Ramirez
+
 # Your Github username
+
+DoughNStuff
